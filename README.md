@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-ahmad-a071a6308/">LinkedIn</a> •
   <a href="https://portfoliosameerahmad.netlify.app">Portfolio</a> •
-  <a href=" Email: [shadkhan@934180@gmail.com](mailto:shadkhan@934180@gmail.com)">Email</a>
+  <a href=" Email: [shadkhan934180@gmail.com](mailto:shadkhan934180@gmail.com)">Email</a>
 </p>
 
 ---
