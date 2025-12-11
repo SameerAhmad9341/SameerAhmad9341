@@ -1,4 +1,9 @@
 # Sameer-Ahmad
+   <p align="center">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=sameerahmad&txt=Sameer%20Ahmad%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI"
+       alt="Sameer Ahmad - Data Analyst Banner" />
+</p>
+
  <!-- Profile Header -->
 <h1 align="center">Hi, this side Sameer Ahmad 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Salesforce Admin | Python, Machine learning • SQL • Excel • Power BI </h3>
