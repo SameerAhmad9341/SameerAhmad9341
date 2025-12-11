@@ -1,5 +1,5 @@
 # SameerAhmad9341
-    <p align="center">
+   <p align="center">
   <img src="https://git-profile-readme-banner.vercel.app/api/python?username=sameerahmad&txt=Sameer%20Ahmad%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI"
        alt="Sameer Ahmad - Data Analyst Banner" />
 </p>
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-ahmad-a071a6308/">LinkedIn</a> •
   <a href="https://portfoliosameerahmad.netlify.app">Portfolio</a> •
-  <a href="shadkhan934180@gmail.com">Email</a>
+  <a href="mailto:shadkhan934180@gmail.com">Email</a>
 </p>
 
 ---
@@ -65,8 +65,6 @@
 ---
 
 ## 📊 GitHub Activity & Stats
-
- 
 
 ---
 
